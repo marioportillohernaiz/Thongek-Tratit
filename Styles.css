@@ -243,16 +243,15 @@ nav{
 
 @media only screen and (max-width: 425px) {
     .parallax {
-        /*background:url("hammer2.png") top right no-repeat;
-        background-attachment:fixed;*/
+        background:url("hammer2.png") top right no-repeat;
+        background-attachment:fixed;
         
-        background-image: url("hammer2.png");
+        /*background-image: url("hammer2.png");
         background-attachment: fixed;
         min-height: 100vh;
-        
         background-repeat: no-repeat;
         background-size: none;
-        width: 100vw;
+        width: 100vw;*/
     }
 
 }
