@@ -242,8 +242,8 @@ nav{
     .parallax {
         background-image: url("hammer2.png");
         min-height: 100vh;
-        background-attachment: fixed;
-        /*background-position: 50% 50%;
+        /*background-attachment: fixed;
+        background-position: 50% 50%;
         background-repeat: no-repeat;
         background-size: none;
         width: 100vw;*/
@@ -255,8 +255,8 @@ nav{
     .parallax {
         background-image: url("hammer2.png");
         min-height: 100vh;
-        background-attachment: fixed;
-        /*background-position: 50% 50%;
+        /*background-attachment: fixed;
+        background-position: 50% 50%;
         background-repeat: no-repeat;
         background-size: none;
         width: 100vw;*/
