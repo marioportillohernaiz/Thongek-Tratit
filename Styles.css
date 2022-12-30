@@ -246,7 +246,7 @@ nav{
         background-position: 50% 50%;
         background-repeat: no-repeat;
         /*background-size: cover;*/ 
-        object-fit:cover;
+        object-fit:fill;
         /*width: 100vw;*/ 
     }
 
@@ -260,7 +260,7 @@ nav{
         background-position: 50% 50%;
         background-repeat: no-repeat;
         /*background-size: cover;*/ 
-        object-fit:cover;
+        object-fit:fill;
         /*width: 100vw;*/
     }
 
