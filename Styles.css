@@ -238,6 +238,11 @@ nav{
         height: 100%;
         margin: auto;
     }
+    
+    .parallax {
+        background:url("hammer2.png") top right no-repeat;
+        background-attachment:fixed;
+    }
 
 }
 
