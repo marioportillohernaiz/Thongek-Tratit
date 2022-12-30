@@ -245,8 +245,7 @@ nav{
         background-attachment: fixed;
         background-position: 50% 50%;
         background-repeat: no-repeat;
-        /*background-size: cover;*/ 
-        object-fit:fill;
+        background-size: fill;
         /*width: 100vw;*/ 
     }
 
@@ -259,8 +258,7 @@ nav{
         background-attachment: fixed;
         background-position: 50% 50%;
         background-repeat: no-repeat;
-        /*background-size: cover;*/ 
-        object-fit:fill;
+        background-size: fill;
         /*width: 100vw;*/
     }
 
