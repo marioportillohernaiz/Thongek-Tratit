@@ -134,7 +134,7 @@ nav{
 }
 
 .parallax {
-    background-image: url("grid.jpeg");
+    background-image: url("hammer.jpg");
     min-height: 100vh; 
     background-attachment: fixed;
     background-position: center;
@@ -240,7 +240,7 @@ nav{
     }
 
     .parallax {
-        background-image: url("grid.jpeg");
+        background-image: url("hammer2.png");
         min-height: 100vh; 
         background-attachment: fixed;
         background-position: 50% 50%;
@@ -253,7 +253,7 @@ nav{
 
 @media only screen and (max-width: 425px) {
     .parallax {
-        background-image: url("grid.jpeg");
+        background-image: url("hammer2.png");
         min-height: 100vh; 
         background-attachment: fixed;
         background-position: 50% 75%;
