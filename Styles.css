@@ -133,7 +133,7 @@ nav{
     position: absolute;
 }
 
-.parallax {
+.paralla {
     background-image: url("hammer.jpg");
     min-height: 100vh; 
     background-attachment: fixed;
@@ -242,10 +242,13 @@ nav{
 }
 
 @media only screen and (max-width: 425px) {
-    .parallax {
-        background-image: url("hammer2.png");
+    .paralla {
+        background:url("hammer2.png") top right no-repeat;
+        background-attachment:fixed;
+        
+        /*background-image: url("hammer2.png");
         background-attachment: fixed;
-        /*min-height: 100vh;
+        min-height: 100vh;
         background-position: 50% 50%;
         background-repeat: no-repeat;
         background-size: none;
