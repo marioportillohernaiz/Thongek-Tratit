@@ -241,12 +241,10 @@ nav{
 
     .parallax {
         background-image: url("hammer2.png");
-        /*min-height: 100vh;*/
-        width: 10%;
-        height: 10%;
+        min-height: 100vh;
         background-attachment: fixed;
-        background-position: 50% 50%;
-        /*background-repeat: no-repeat;
+        /*background-position: 50% 50%;
+        background-repeat: no-repeat;
         background-size: none;
         width: 100vw;*/
     }
@@ -256,12 +254,10 @@ nav{
 @media only screen and (max-width: 425px) {
     .parallax {
         background-image: url("hammer2.png");
-        /*min-height: 100vh;*/
-        width: 10%;
-        height: 10%;
+        min-height: 100vh;
         background-attachment: fixed;
-        background-position: 50% 50%;
-        /*background-repeat: no-repeat;
+        /*background-position: 50% 50%;
+        background-repeat: no-repeat;
         background-size: none;
         width: 100vw;*/
     }
